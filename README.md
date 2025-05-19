@@ -170,4 +170,6 @@ DELETE /api/employees/{id}
 Пример для сущности `Workshop`:
 
 ### Получение списка
+```http
 GET /api/workshops/
+
