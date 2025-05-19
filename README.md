@@ -76,6 +76,7 @@ GET /api/employees/{id}
 POST /api/employees
 PUT /api/employees/{id}
 DELETE /api/employees/{id}
+```
 
 # 🧱 Структура базы данных
 
